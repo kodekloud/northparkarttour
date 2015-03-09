@@ -31,6 +31,34 @@
 						}]
 					}
 					]
+			},
+			{
+				"id": "2001",
+				"name": "STRING",
+				"x_coordinate": "930",
+				"y_coordinate": "714",
+				"z_coordinate": "1",
+				"items" : [{
+					"id":"3000",
+					"name":"STRING",
+					"description":"STRING",
+					"description_2":"STRING",
+					"images":[{
+						"id":"4000",
+						"hr_url":"STRING",
+						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"name":"STRING - optional, not used in NP right now but good to have",
+						"description":"STRING - optional, not used in NP right now but good to have"
+						},
+						{
+						"id":"4001",
+						"hr_url":"STRING",
+						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"name":"STRING - optional, not used in NP right now but good to have",
+						"description":"STRING - optional, not used in NP right now but good to have"
+						}]
+					}
+					]
 			}
 		]}
     ]   
