@@ -35,8 +35,8 @@
 			{
 				"id": "2001",
 				"name": "STRING",
-				"x_coordinate": "930",
-				"y_coordinate": "714",
+				"x_coordinate": "933",
+				"y_coordinate": "546",
 				"z_coordinate": "1",
 				"items" : [{
 					"id":"3000",
