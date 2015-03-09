@@ -12,7 +12,7 @@
 				"z_coordinate": "1",
 				"items" : [{
 					"id":"3000",
-					"name":"STRING",
+					"name":"Ad Astra, 2005",
 					"description":"STRING",
 					"description_2":"STRING",
 					"images":[{
@@ -32,7 +32,7 @@
 					},
 					{
 					"id":"3001",
-					"name":"STRING",
+					"name":"Rediscovered King, 1987",
 					"description":"STRING",
 					"description_2":"STRING",
 					"images":[{
