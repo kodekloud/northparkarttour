@@ -59,13 +59,6 @@
 						"url":"/system/stores/store_fronts/000/016/944/original/Official_OneLine_Logo.jpg?1413385012",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
-						},
-						{
-						"id":"2004",
-						"hr_url":"STRING",
-						"url":"/system/stores/store_fronts/000/015/604/original/940_448_Als.jpg?1412787436",
-						"name":"STRING - optional, not used in NP right now but good to have",
-						"description":"STRING - optional, not used in NP right now but good to have"
 						}]
 					},
 					{
@@ -74,9 +67,16 @@
 					"description":"Joel Shapiro (American, born 1941)",
 					"description_2":"Neon, wood, painted steel, galvanized steel, aluminum, mirror, one-way mirror and electric energy 189 x 105 1/8 x 105 1/8 inches, Edition of 3 On loan from Paul Kasmin Gallery, New York",
 					"images":[{
-						"id":"2005",
+						"id":"2004",
 						"hr_url":"STRING",
 						"url":"/system/stores/store_fronts/000/016/918/original/940_448_Aldo_Logo_Store_Front_002_0737.jpg?1412787451",
+						"name":"STRING - optional, not used in NP right now but good to have",
+						"description":"STRING - optional, not used in NP right now but good to have"
+						},
+						{
+						"id":"2006",
+						"hr_url":"STRING",
+						"url":"/system/stores/store_fronts/000/015/604/original/940_448_Als.jpg?1412787436",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
 						}]
