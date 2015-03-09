@@ -3,6 +3,9 @@
 	{
 		"id": "1",
 		"name": "art tour 1",
+		"x_coordinate": "930",
+		"y_coordinate": "714",
+		"z_coordinate": "1",
 		"image_url":"/system/stores/store_fronts/000/015/600/original/7_for_All_Mankind_MG_2470_RET.jpg?1412787413",
 		"locations": [{
 				"id": "1",
@@ -50,6 +53,9 @@
 	{
 		"id": "2",
 		"name": "art tour 2",
+		"x_coordinate": "933",
+		"y_coordinate": "546",
+		"z_coordinate": "1",
 		"image_url":"/system/stores/store_fronts/000/016/944/original/Official_OneLine_Logo.jpg?1413385012",
 		"locations": [{
 				"id": "2",
