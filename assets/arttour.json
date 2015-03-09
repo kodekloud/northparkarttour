@@ -40,10 +40,7 @@
 						"description":"STRING - optional, not used in NP right now but good to have"
 						}]
 					}]
-					
-			}
-		]
-	}, 
+	    }, 
 	{
 		"id": "2",
 		"name": "art tour 2",
