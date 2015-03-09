@@ -5,13 +5,13 @@
 		"name": "art tour 1",
 		"image_url": "/system/properties/maps/000/000/056/original/Map_Spring14_(2).jpg?1423846026",
 		"locations": [{
-				"id": "NUMBER",
+				"id": "2000",
 				"name": "STRING",
 				"x_coordinate": "930",
 				"y_coordinate": "714",
 				"z_coordinate": "1",
 				"items" : [{
-					"id":"NUMBER",
+					"id":"3000",
 					"name":"STRING",
 					"description":"STRING",
 					"description_2":"STRING",
