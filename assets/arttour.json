@@ -9,7 +9,7 @@
 				"name": "STRING",
 				"x_coordinate": "NUMBER",
 				"y_coordinate": "NUMBER",
-				"x_coordinate": "NUMBER",
+				"z_coordinate": "NUMBER",
 				"items" : [{
 					"id":"NUMBER",
 					"name":"STRING",
