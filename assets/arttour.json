@@ -12,7 +12,7 @@
 				"z_coordinate": "1",
 				"items" : [{
 					"id":"NUMBER",
-					"name":"STRING",
+					"artist":"STRING",
 					"description":"STRING",
 					"description_2":"STRING",
 					"images":[{
@@ -32,7 +32,7 @@
 					},
 					{
 					"id":"NUMBER",
-					"name":"STRING",
+					"artist":"STRING",
 					"description":"STRING",
 					"description_2":"STRING",
 					"images":[{
@@ -59,7 +59,7 @@
 				"z_coordinate": "1",
 				"items" : [{
 					"id":"NUMBER",
-					"name":"STRING",
+					"artist":"STRING",
 					"description":"STRING",
 					"description_2":"STRING",
 					"images":[{
@@ -79,7 +79,7 @@
 					},
 					{
 					"id":"NUMBER",
-					"name":"STRING",
+					"artist":"STRING",
 					"description":"STRING",
 					"description_2":"STRING",
 					"images":[{
