@@ -25,7 +25,7 @@
 						{
 						"id":"NUMBER",
 						"hr_url":"STRING",
-						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"url":"/system/stores/store_fronts/000/015/602/original/940_448_AF.jpg?1412787427",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
 						}]
