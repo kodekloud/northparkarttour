@@ -1,56 +1,51 @@
 {
 "poi": [
-{
-"id": "NUMBER",
-"name": "1",
-"image_url": "STRING",
-"locations": [
-{
-"id": "NUMBER",
-"name": "STRING",
-"x_coordinate": "NUMBER",
-"y_coordinate": "NUMBER",
-"items": [
-{
-"id": "NUMBER",
-"name": "STRING",
-"description": "STRING",
-"description_2": "STRING",
-"images": [
-{
-"id": "NUMBER",
-"hr_url": "STRING",
-"url": "STRING - optional, low res url, coming in MM 3.0",
-"name": "STRING - optional, not used in NP right now but good to have",
-"description": "STRING - optional, not used in NP right now but good to have"
-},
-{
-"id": "NUMBER",
-"hr_url": "STRING",
-"url": "STRING - optional, low res url, coming in MM 3.0",
-"name": "STRING - optional, not used in NP right now but good to have",
-"description": "STRING - optional, not used in NP right now but good to have"
-}
-]
-},
-{
-"id": "NUMBER",
-"name": "STRING",
-"description": "STRING",
-"description_2": "STRING",
-"images": [
-{
-"id": "NUMBER",
-"hr_url": "STRING",
-"url": "STRING - optional, low res url, coming in MM 3.0",
-"name": "STRING - optional, not used in NP right now but good to have",
-"description": "STRING - optional, not used in NP right now but good to have"
-}
-]
-}
-]
-}
-]
-}
+	{
+		"id": "NUMBER",
+		"name": "STRING",
+		"image_url":"STRING",
+		"locations": [{
+				"id": "NUMBER",
+				"name": "STRING",
+				"x_coordinate": "NUMBER",
+				"y_coordinate": "NUMBER",
+				"x_coordinate": "NUMBER",
+				"items" : [{
+					"id":"NUMBER",
+					"name":"STRING",
+					"description":"STRING",
+					"description_2":"STRING",
+					"images":[{
+						"id":"NUMBER",
+						"hr_url":"STRING",
+						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"name":"STRING - optional, not used in NP right now but good to have",
+						"description":"STRING - optional, not used in NP right now but good to have"
+						},
+						{
+						"id":"NUMBER",
+						"hr_url":"STRING",
+						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"name":"STRING - optional, not used in NP right now but good to have",
+						"description":"STRING - optional, not used in NP right now but good to have"
+						}]
+					},
+					{
+					"id":"NUMBER",
+					"name":"STRING",
+					"description":"STRING",
+					"description_2":"STRING",
+					"images":[{
+						"id":"NUMBER",
+						"hr_url":"STRING",
+						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"name":"STRING - optional, not used in NP right now but good to have",
+						"description":"STRING - optional, not used in NP right now but good to have"
+						}]
+					}
+					]
+			}
+		]
+	}
 ]
 }
