@@ -11,7 +11,7 @@
 					"id":"NUMBER",
 					"name":"STRING",
 					"description":"Painted steel 48 feet x 25 feet, 6 inches x 25 feet, 6 inches Nancy A. Nasher and David J. Haemisegger Collection",
-					"description_2":null,
+					"description_2":"Painted steel 48 feet x 25 feet, 6 inches x 25 feet, 6 inches Nancy A. Nasher and David J. Haemisegger Collection",
 					"images":[{
 						"id":"NUMBER",
 						"hr_url":"STRING",
@@ -52,7 +52,7 @@
 					"id":"NUMBER",
 					"name":"STRING",
 					"description":"Forged aluminum 113x46x21inches Nancy A. Nasher and David J. Haemisegger Collection",
-					"description_2":null,
+					"description_2":"Forged aluminum 113x46x21inches Nancy A. Nasher and David J. Haemisegger Collection",
 					"images":[{
 						"id":"NUMBER",
 						"hr_url":"STRING",
