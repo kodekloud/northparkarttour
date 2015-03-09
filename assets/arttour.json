@@ -14,7 +14,7 @@
 					"id":"NUMBER",
 					"artist":"STRING",
 					"description":"Painted steel 48 feet x 25 feet, 6 inches x 25 feet, 6 inches Nancy A. Nasher and David J. Haemisegger Collection",
-					"description_2":"STRING",
+					"description_2":null,
 					"images":[{
 						"id":"NUMBER",
 						"hr_url":"STRING",
