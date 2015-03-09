@@ -18,14 +18,14 @@
 					"images":[{
 						"id":"4000",
 						"hr_url":"/system/stores/store_fronts/000/015/600/original/7_for_All_Mankind_MG_2470_RET.jpg?1412787413",
-						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
 						},
 						{
 						"id":"4001",
 						"hr_url":"/system/stores/store_fronts/000/015/602/original/940_448_AF.jpg?1412787427",
-						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
 						}]
@@ -38,7 +38,7 @@
 					"images":[{
 						"id":"4002",
 						"hr_url":"/system/stores/store_fronts/000/015/603/original/940_448_Aeropostale_Logo_Store_Front_002_1691.jpg?1412704286",
-						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
 						}]
@@ -59,7 +59,7 @@
 					"images":[{
 						"id":"4003",
 						"hr_url":"/system/stores/store_fronts/000/016/944/original/Official_OneLine_Logo.jpg?1413385012",
-						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
 						}]
@@ -72,14 +72,14 @@
 					"images":[{
 						"id":"4004",
 						"hr_url":"/system/stores/store_fronts/000/015/604/original/940_448_Als.jpg?1412787436",
-						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
 						},
 						{
 						"id":"4005",
 						"hr_url":"/system/stores/store_fronts/000/016/918/original/940_448_Aldo_Logo_Store_Front_002_0737.jpg?1412787451",
-						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
 						}]
