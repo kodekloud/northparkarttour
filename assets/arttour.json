@@ -2,7 +2,7 @@
 "poi": [
 	{
 		"id": "1000",
-		"name": "art tour 1",
+		"name": "art tour",
 		"image_url": "/system/properties/maps/000/000/056/original/Map_Spring14_(2).jpg?1423846026",
 		"locations": [{
 				"id": "2000",
