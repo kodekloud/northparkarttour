@@ -6,7 +6,7 @@
 		"image_url": "/system/properties/maps/000/000/056/original/Map_Spring14_(2).jpg?1423846026",
 		"locations": [{
 				"id": "2000",
-				"name": "STRING",
+				"name": "art tour location 1",
 				"x_coordinate": "930",
 				"y_coordinate": "714",
 				"z_coordinate": "1",
@@ -29,12 +29,25 @@
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
 						}]
+					},
+					{
+					"id":"3001",
+					"name":"STRING",
+					"description":"STRING",
+					"description_2":"STRING",
+					"images":[{
+						"id":"4002",
+						"hr_url":"STRING",
+						"url":"STRING - optional, low res url, coming in MM 3.0",
+						"name":"STRING - optional, not used in NP right now but good to have",
+						"description":"STRING - optional, not used in NP right now but good to have"
+						}]
 					}
 					]
 			},
 			{
 				"id": "2001",
-				"name": "STRING",
+				"name": "art tour location 2",
 				"x_coordinate": "933",
 				"y_coordinate": "546",
 				"z_coordinate": "1",
