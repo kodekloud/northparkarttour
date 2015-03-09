@@ -7,9 +7,9 @@
 		"locations": [{
 				"id": "1",
 				"name": "STRING",
-				"x_coordinate": "NUMBER",
-				"y_coordinate": "NUMBER",
-				"z_coordinate": "NUMBER",
+				"x_coordinate": "930",
+				"y_coordinate": "714",
+				"z_coordinate": "1",
 				"items" : [{
 					"id":"NUMBER",
 					"name":"STRING",
@@ -54,9 +54,9 @@
 		"locations": [{
 				"id": "2",
 				"name": "STRING",
-				"x_coordinate": "NUMBER",
-				"y_coordinate": "NUMBER",
-				"z_coordinate": "NUMBER",
+				"x_coordinate": "933",
+				"y_coordinate": "546",
+				"z_coordinate": "1",
 				"items" : [{
 					"id":"NUMBER",
 					"name":"STRING",
