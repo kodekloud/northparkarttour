@@ -5,7 +5,7 @@
 		"name": "art tour 1",
 		"image_url":"STRING",
 		"locations": [{
-				"id": "NUMBER",
+				"id": "1",
 				"name": "STRING",
 				"x_coordinate": "NUMBER",
 				"y_coordinate": "NUMBER",
@@ -52,7 +52,7 @@
 		"name": "art tour 2",
 		"image_url":"STRING",
 		"locations": [{
-				"id": "NUMBER",
+				"id": "2",
 				"name": "STRING",
 				"x_coordinate": "NUMBER",
 				"y_coordinate": "NUMBER",
