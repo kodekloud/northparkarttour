@@ -17,7 +17,7 @@
 					"description_2":"Painted steel 48 feet x 25 feet, 6 inches x 25 feet, 6 inches Nancy A. Nasher and David J. Haemisegger Collection",
 					"images":[{
 						"id":"4000",
-						"hr_url":"/system/stores/store_fronts/000/015/600/original/7_for_All_Mankind_MG_2470_RET.jpg?1412787413",
+						"hr_image_url":"/system/stores/store_fronts/000/015/600/original/7_for_All_Mankind_MG_2470_RET.jpg?1412787413",
 						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
@@ -37,7 +37,7 @@
 					"description_2":"Forged aluminum 113x46x21inches Nancy A. Nasher and David J. Haemisegger Collection",
 					"images":[{
 						"id":"4002",
-						"hr_url":"/system/stores/store_fronts/000/015/603/original/940_448_Aeropostale_Logo_Store_Front_002_1691.jpg?1412704286",
+						"hr_image_url":"/system/stores/store_fronts/000/015/603/original/940_448_Aeropostale_Logo_Store_Front_002_1691.jpg?1412704286",
 						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
@@ -58,7 +58,7 @@
 					"description_2":"Bronze 48 1/4 x 90 1/4 x 61 3/4 inches Raymond and Patsy Nasher Collection, Nasher Sculpture Center, Dallas",
 					"images":[{
 						"id":"4003",
-						"hr_url":"/system/stores/store_fronts/000/016/944/original/Official_OneLine_Logo.jpg?1413385012",
+						"hr_image_url":"/system/stores/store_fronts/000/016/944/original/Official_OneLine_Logo.jpg?1413385012",
 						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
@@ -71,14 +71,14 @@
 					"description_2":"Wood with casein 122 x 132 x 85 inches Nancy A. Nasher and David J. Haemisegger Collection",
 					"images":[{
 						"id":"4004",
-						"hr_url":"/system/stores/store_fronts/000/015/604/original/940_448_Als.jpg?1412787436",
+						"hr_image_url":"/system/stores/store_fronts/000/015/604/original/940_448_Als.jpg?1412787436",
 						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
 						},
 						{
 						"id":"4005",
-						"hr_url":"/system/stores/store_fronts/000/016/918/original/940_448_Aldo_Logo_Store_Front_002_0737.jpg?1412787451",
+						"hr_image_url":"/system/stores/store_fronts/000/016/918/original/940_448_Aldo_Logo_Store_Front_002_0737.jpg?1412787451",
 						"image_url":"STRING - optional, low res url, coming in MM 3.0",
 						"name":"STRING - optional, not used in NP right now but good to have",
 						"description":"STRING - optional, not used in NP right now but good to have"
