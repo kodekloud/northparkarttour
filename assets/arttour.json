@@ -7,9 +7,9 @@
 		"locations": [{
 				"id": "2000",
 				"name": "art tour location 1",
-				"x_coordinate": "930",
-				"y_coordinate": "714",
-				"z_coordinate": "1",
+				"x_coordinate": 930,
+				"y_coordinate": 714,
+				"z_coordinate": 1,
 				"items" : [{
 					"id":"3000",
 					"name":"Ad Astra, 2005",
@@ -48,9 +48,9 @@
 			{
 				"id": "2001",
 				"name": "art tour location 2",
-				"x_coordinate": "933",
-				"y_coordinate": "546",
-				"z_coordinate": "1",
+				"x_coordinate": 933,
+				"y_coordinate": 546,
+				"z_coordinate": 1,
 				"items" : [{
 					"id":"3002",
 					"name":"Reclining Figure: Angles, 1979 (cast 1980)",
